@@ -3,7 +3,7 @@ var trabajos = [
 {
     figure: "media/VP2.jpg",
     title: "Peluches sensoriales",
-    about: "olaboración microemprendimiento Mi Tuti Cuanti, dedicado a productos infantiles en tela.",
+    about: "Colaboración microemprendimiento Mi Tuti Cuanti, dedicado a productos infantiles en tela.",
 }, {
     figure: "media/VP1.jpg",
     title: "Leyendas latinas",
@@ -15,7 +15,7 @@ var trabajos = [
 },{
     figure: "media/VP5.jpg",
     title: "Gatos",
-    about: "Ilustracion con técnica de acuarela para ramo.",
+    about: "Ilustración con técnica de acuarela para ramo.",
 }, {
     figure: "media/VP4.jpg",
     title: "Charlotte",
@@ -36,7 +36,7 @@ var trabajos = [
     figure: "media/CP6.jpg",
     title: "Blake",
     about: "Ilustración digital del diseño de personaje para historia ilustrada digitalmente.",
-}
+},
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
 $.each(trabajos, function(i, val) {
